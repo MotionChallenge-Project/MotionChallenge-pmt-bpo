@@ -1,0 +1,6 @@
+{
+  "state_access": "proprioceptive-no-position-no-linear-velocity-v1",
+  "checkpoint_sha256": "72daa7ae41aad80a247aa57c47e68d33f0d40d03efd3bc4621f585e253d3a759",
+  "status": "excluded",
+  "reason": "Released adapter consumes actual root linear velocity"
+}
